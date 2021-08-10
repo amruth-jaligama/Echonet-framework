@@ -3,9 +3,9 @@
 
 We have created a pipleine for the EchoNet Segmentation model that is built by Stanford University. A Streamlit UI and RESTful API accompanies this pipleine
 
-### Data Science pipeline
+### Deep Learning pipeline
 
-We are aiming to make the above mentioned services, namely Frame-by-frame Semantic Segmentation of the Left Ventricle, Prediction of Ejection Fraction from Subsampled Clips, and Assesment of Cardiomyopathy using a data science pipeline. We  have an API that will accept a POST request with the video and process it to return an ejection fraction value. A GET request will be needed to retrieve the resulting video.
+We are aiming to make the above mentioned services, namely Frame-by-frame Semantic Segmentation of the Left Ventricle, Prediction of Ejection Fraction from Subsampled Clips, and Assesment of Cardiomyopathy using a deep learning pipeline. We  have an API that will accept a POST request with the video and process it to return an ejection fraction value. A GET request will be needed to retrieve the resulting video.
 
 ## Acknowledgements
 
