@@ -83,7 +83,7 @@ and hit enter, all the requirements will be downloaded and installed.
 Change the CONFIG_PATH variable location in the Echocardiogram.py to the folder where the configure.yaml is located.
 
 ### Step 2
-In the cmd which has present working directory as backend folder path and execute 
+In the cmd which has present working directory as backend folder path execute 
 ```bash
 python backend.py
 ```
